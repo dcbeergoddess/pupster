@@ -1,3 +1,46 @@
+# Pupster 2.0
+
+**Link to GitHub Repo Here =>** [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dcbeergoddess/Pupster)](https://github.com/dcbeergoddess/pupster)
+
+## Description
+
+Enjoy random pictures of cute pups and try and make a new friend... or 5. Search breeds to find adorable cute pup pictures to remind you of your best friend. My personal fav: The Pittie!!
+
+## Table Of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contribuiting](#contributing)
+* [Tests](#tests)
+* [Question](#questions)
+
+## Installation
+
+Install dependencies using command bellow
+- npm install
+
+## Usage
+
+this build off of create-react-app
+
+## License
+
+MIT License
+
+## Contributing
+
+n/s
+
+## Tests
+
+Test the application and generate a README using the following command
+- npm run start
+
+## Questions
+
+![Image of dcbeergoddess](https://avatars0.githubusercontent.com/u/59098488?v=4&s=200)
+* [**Contact Me**](mailto:dcbeergoddess@gmail.com?subject=Pupster)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
